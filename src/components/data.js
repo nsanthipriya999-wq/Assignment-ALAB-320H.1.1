@@ -3,7 +3,7 @@ import john from "../assets/employeeimages/john.jpg"
 import julie from "../assets/employeeimages/julie.jpg"
 import paul from "../assets/employeeimages/paul.jpg"
 import ray from "../assets/employeeimages/ray.jpg"
-import Eugene from "../assets/employeeimages/Eugene.jpg"
+import eugene from "../assets/employeeimages/eugene.jpg"
 
 
 
@@ -26,7 +26,7 @@ export const employees=[
         id:3,
         name:"Eugene Lee",
         profession:"CFO",
-        image:Eugene
+        image:eugene
 
     }, 
     {
